@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0207-course-schedule) |
+## Array
+|  |
+| ------- |
+| [0057-insert-interval](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0057-insert-interval) |
 <!---LeetCode Topics End-->
