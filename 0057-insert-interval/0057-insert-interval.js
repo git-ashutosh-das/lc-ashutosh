@@ -4,25 +4,35 @@
  * @return {number[][]}
  */
 var insert = function(intervals, newInterval) {
-    let heap = new MinPriorityQueue({compare : (a,b)=>{return a[0]-b[0]}})
-    for(let interval of intervals){
-        heap.enqueue(interval)
+    if( intervals.length == 0) {
+        intervals.push(newInterval)
+        return intervals;
     }
-    heap.enqueue(newInterval);
-    let ans = [heap.dequeue()]
+    let newincluded = []
+    let flag = false
+    for(let interval of intervals){
+        if( newInterval[0] <= interval[0] && !flag){
+            newincluded.push(newInterval)
+            flag = true;
+        }
+        newincluded.push(interval)
+    }
+    if (flag == false) newincluded.push(newInterval)
+    // console.log(newincluded)
+    let ans = [newincluded[0]];
+    for(let i=1; i< newincluded.length; i++){
+        let prevend = ans[ans.length-1][1]
+        let newint = newincluded[i];
+        let newstart = newint[0];
+        let newend = newint[1];
 
-    while( heap.size() !== 0){
-        let prevend = ans[ans.length-1][1];
-        let newint = heap.dequeue();
-        let newintstart  = newint[0];
-        let newintend  = newint[1];
-        console.log(ans)
-        if( prevend >= newintstart ){
-            let newend = newintend > prevend ? newintend : prevend
-            ans[ans.length-1][1] = newend
-        } else{
-            ans.push(newint)
+        if(prevend >= newstart){
+            let end = prevend > newend ? prevend : newend
+            ans[ans.length-1][1] = end
+        }else{
+            ans.push(newincluded[i])
         }
     }
-    return ans;
+   
+    return ans
 };
