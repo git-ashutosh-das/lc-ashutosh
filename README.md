@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
 ## Graph Theory
 |  |
 | ------- |
@@ -31,4 +32,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0057-insert-interval) |
+| [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
