@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0057-insert-interval) |
 | [0213-house-robber-ii](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
+| [0739-daily-temperatures](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
