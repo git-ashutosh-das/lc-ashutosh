@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0057-insert-interval) |
 | [0213-house-robber-ii](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0853-car-fleet) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0213-house-robber-ii](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -63,4 +65,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0853-car-fleet) |
+## Binary Search
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
