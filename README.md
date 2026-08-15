@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0014-longest-common-prefix) |
 | [0057-insert-interval](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0057-insert-interval) |
 | [0213-house-robber-ii](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0300-longest-increasing-subsequence) |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0300-longest-increasing-subsequence) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
