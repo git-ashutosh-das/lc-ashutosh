@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
 ## Graph Theory
 |  |
@@ -43,16 +44,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
 ## Stack
 |  |
@@ -97,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
