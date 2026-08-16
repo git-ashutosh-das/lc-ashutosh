@@ -11,6 +11,6 @@ var numSquares = function(n) {
             dp[i] = Math.min(dp[i], dp[i - j*j] + 1 )
         }
     }
-    console.log(dp)
+    //console.log(dp)
     return dp[n]
 };
