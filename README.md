@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0853-car-fleet) |
+| [3693-climbing-stairs-ii](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0322-coin-change) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3693-climbing-stairs-ii](https://github.com/git-ashutosh-das/lc-ashutosh/tree/master/3693-climbing-stairs-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
